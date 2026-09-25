@@ -1,47 +1,26 @@
 <div align="center">
-  <img src="avatar.jpg" alt="Emre - Polymath & iOS Developer" width="100%" style="border-radius: 15px;">
+  <img src="pixel_avatar.jpg" alt="Pixel Art Coding" width="100%" style="border-radius: 10px;">
   
   <br><br>
   
-  # 👨🏻‍💻 Hi, I'm Emre (@emredevelop)
+  # Hi, I'm Emre 👋
   
-  ### *A Polymath / AI Systems Engineer & iOS Developer*
-  
-  *"Studying the past to build the future."*
+  *Learning, building, and staying curious.*
 </div>
 
 ---
 
-## 👁️ Who Am I?
+### About Me
+I'm at the very beginning of my journey into iOS development and programming. I enjoy exploring how things work under the hood, building small projects to test what I've learned, and constantly improving my skills step by step.
 
-I am an intellectual builder who believes that the best code is written at the intersection of **Technology, Philosophy, History, and Art** (The *L'uomo Universale* ideal). My background in Political Science and History gives me a unique, macroscopic perspective on system architectures, and my passion for programming turns those architectures into reality.
+I'm currently focused on:
+- 📱 Learning **Swift** & **SwiftUI** to build iOS apps.
+- 🐍 Understanding the basics of **Python** and logic.
+- 📚 Expanding my knowledge in history, philosophy, and technology.
 
-I specialize in building **autonomous AI systems**, **secure network architectures**, and **beautiful iOS applications**.
-
----
-
-## 🚀 Current Flagship Projects
-
-### 📱 Project Omniscience (iOS)
-An upcoming iOS utility application designed to bypass system limitations using `ReplayKit` and `OpenCV`. It performs intelligent image stitching and AI-driven screen analysis to give users "the all-seeing eye" on their devices. Built with **SwiftUI**.
-
-### 🧠 FINCH v2.0 (AI Assistant & Home Server)
-A fully autonomous, self-improving AI agent running on a Raspberry Pi cluster. 
-- **Core:** Python, FastAPI, Gemini AI, RAG.
-- **Security:** Hardened with a Zero-Trust SDN (`Tailscale` / WireGuard).
-- **Ops:** Cross-device sync and remote Telegram polling for untethered command execution.
-
----
-
-## 🛠️ Tech Stack & Arsenal
-
-- **Mobile Development:** Swift, SwiftUI, iOS Architecture
-- **AI & Backend:** Python, LLMs (Gemini/Local Models), RAG Systems, Agentic AI (AutoGPT)
-- **Infrastructure & Security:** Raspberry Pi, Linux, Tailscale, Zero-Trust Networks, Bash Scripting
-- **Academics & Analytics:** Political Science, History, Russian Literature, Cryptography
-
----
+### What I'm Building
+Right now, I am taking courses and experimenting with my first iOS projects (like an idea for a screenshot utility app). Every repository you see here is a part of my learning process.
 
 <div align="center">
-  <i>"I am not just writing code. I am teaching machines the logic of history."</i>
+  <i>"The journey of a thousand miles begins with a single step."</i>
 </div>
